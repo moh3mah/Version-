@@ -1,0 +1,6 @@
+{
+  "name": "Version - Real Social Video Downloader",
+  "description": "منصة Version الاحترافية ذات التصميم الزجاجي الوردي والأسود لتحميل الفيديوهات بجودة عالية من تيك توك، تويتر، يوتيوب، انستغرام، فيسبوك، وسناب شات مع مكتبة وسائط متكاملة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
